@@ -1,3 +1,5 @@
+ℹ️ We forked this in order to update the Build Settings "Mach-O Type" to "Dynamic Library". This is required for our Carthage integration on CI, full investigation [here](https://thefab.slack.com/archives/GDYDJEDGE/p1623315762027500?thread_ts=1623314379.022800&cid=GDYDJEDGE).
+
 # FormattableTextView
 
 <img src="images/left.gif"/>
